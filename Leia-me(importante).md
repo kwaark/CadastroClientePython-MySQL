@@ -4,7 +4,8 @@ Programa para cadastro de clientes através do Python usando MySQL como banco de
 Sistema de cadastro consiste em NOME;IDADE;CPF;NACIONALIDADE;SEXO >
 
 Iremos usar a biblioteca "mysql.connector" para fazer a conexão com o banco de dados MySQL
-Conexão concluída
+
+- Conexão concluída
 
 ##########################################################################################################
 ###### Alguns comandos utilizados para a criação do novo banco de dados no MySQL ######
